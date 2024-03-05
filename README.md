@@ -6,7 +6,7 @@ This repository is the basis for [community documentation](https://docs.astral.c
 
 The site is published using the [Obsidian Digital Garden](https://github.com/oleeskild/Obsidian-Digital-Garden) plugin for [Obsidian](https://obsidian.md/). You can find the documentation for the Digital Garden plugin [here](https://dg-docs.ole.dev/).
 # Note Guidelines
-In order to work with the Digital Garden plugin, there are a few conventions each note should follow.
+In order to work with the Digital Garden plugin, there are a few conventions each note should follow. All notes should be markdown files (`.md`).
 ## Header
 This goes at the beginning of each file.
 ```
@@ -26,3 +26,5 @@ dg-permalink: example
 The Digital Garden plugin supports [callouts](https://help.obsidian.md/Editing+and+formatting/Callouts). There are no specific conventions for when they should be used, as long as it makes sense.
 ## Code Blocks
 Code blocks should use the `xls` syntax highlighter.
+## Wikilinks
+The Digital Garden plugin supports [wikilinks](https://help.obsidian.md/Linking+notes+and+files/Internal+links). Use them when possible, and don't be afraid to make dead links to be filled later.
