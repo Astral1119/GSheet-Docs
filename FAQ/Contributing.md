@@ -11,7 +11,7 @@ Start by [forking the main repository](https://github.com/Astral1119/GSheet-Docs
 git checkout -b new-branch-name
 ```
 
-If you want to use [Obsidian](https://obsidian.md/), download the app onto your machine and open your cloned repository as a vault. You can use plugins or themes without modifying anything, as the Obsidian folder is in gitignore. You can then make whatever edits you wish. Please refer to the [[README#Note Guidelines|note guidelines]] while making edits.
+If you want to use [Obsidian](https://obsidian.md/), download the app onto your machine and open your cloned repository as a vault. You can use plugins or themes without modifying anything, as the Obsidian folder is in gitignore. You can then make whatever edits you wish. Please refer to the [[note guidelines]] while making edits.
 
 Every so often, remember to [sync your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) and [git pull](https://github.com/git-guides/git-pull) to your machine. When you are done, run the following commands, making sure to replace the commit message and branch name:
 
