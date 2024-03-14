@@ -6,4 +6,4 @@ This repository is the basis for [community documentation](https://docs.astral.c
 
 The site is published using the [Obsidian Digital Garden](https://github.com/oleeskild/Obsidian-Digital-Garden) plugin for [Obsidian](https://obsidian.md/). If you are contributing, you will *not* need the plugin.
 
-If you wish to contribute, you can find instructions about how to get started in [Contributing.md](/FAQ/Contributing.md).
+If you wish to contribute, you can find instructions about how to get started [here](https://docs.astral.cafe/contribute/).
