@@ -1,7 +1,7 @@
 ---
 title: Contributing
 tags: 
-dg-publish: 
+dg-publish: true
 dg-permalink: contribute
 ---
 # Quickstart

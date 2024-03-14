@@ -9,7 +9,7 @@ dg-permalink: ask
 > If you've been directed here, please **read the full text.** It may seem pointless but it is essential that you are on the same page as your helpers.
 
 > [!WARNING] This is specific to certain communities.
-> This note was written for the [Spreadsheets Discord Community](https://discord.gg/M9GKpPd). Advice here may not apply to all help forums. Make sure you ask your question in the correct channel in the Questions category, and not in **#general-chat**.
+> This note was written for the [Spreadsheets Discord Community](https://discord.gg/M9GKpPd). Advice here may not apply to all help forums. Make sure you ask your question in the correct channel in the Questions category, and not in **\#general-chat**.
 # Introduction
 This article was written for the Spreadsheets Discord Community,  which is considerably more casual than other forums like Stack Overflow. As a result, these aren't hard rules. These are meant to be suggestions to help you get the best answers possible. If you are confused about anything, the solution is simple—*ask*. The helpers in the community will be more than willing to help you, as long as they feel you are receptive.
 # Provide Information
