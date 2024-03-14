@@ -24,6 +24,6 @@ dg-permalink: example
 ## Callouts
 The Digital Garden plugin supports [callouts](https://help.obsidian.md/Editing+and+formatting/Callouts). There are no specific conventions for when they should be used, as long as it makes sense.
 ## Code Blocks
-Code blocks should use the `xls` syntax highlighter.
+Code blocks should use the `xls` syntax highlighter. While it won't be visible in Obsidian, the site's syntax highlighter will handle it.
 ## Wikilinks
 The Digital Garden plugin supports [wikilinks](https://help.obsidian.md/Linking+notes+and+files/Internal+links). Use them when possible, and don't be afraid to make dead links to be filled later.
