@@ -40,18 +40,18 @@ Query syntax is divorced from formula syntax, instead following the [Google Visu
 # Language Clauses
 Language clauses determine how information is gathered and processed.
 
-|Clause|Usage|
-|---|---|
-|[select](https://developers.google.com/chart/interactive/docs/querylanguage#Select)|Selects which columns to return, and in what order. If omitted, all of the table's columns are returned, in their default order.|
-|[where](https://developers.google.com/chart/interactive/docs/querylanguage#Where)|Returns only rows that match a condition. If omitted, all rows are returned.|
-|[group by](https://developers.google.com/chart/interactive/docs/querylanguage#Group_By)|Aggregates values across rows.|
-|[pivot](https://developers.google.com/chart/interactive/docs/querylanguage#Pivot)|Transforms distinct values in columns into new columns.|
-|[order by](https://developers.google.com/chart/interactive/docs/querylanguage#Order_By)|Sorts rows by values in columns.|
-|[limit](https://developers.google.com/chart/interactive/docs/querylanguage#Limit)|Limits the number of returned rows.|
-|[offset](https://developers.google.com/chart/interactive/docs/querylanguage#Offset)|Skips a given number of first rows.|
-|[label](https://developers.google.com/chart/interactive/docs/querylanguage#Label)|Sets column labels.|
-|[format](https://developers.google.com/chart/interactive/docs/querylanguage#Format)|Formats the values in certain columns using given formatting patterns.|
-|[options](https://developers.google.com/chart/interactive/docs/querylanguage#Options)|Sets additional options.|
+| Clause                                                                                  | Usage                                                                                                                            |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [select](https://developers.google.com/chart/interactive/docs/querylanguage#Select)     | Selects which columns to return, and in what order. If omitted, all of the table's columns are returned, in their default order. |
+| [where](https://developers.google.com/chart/interactive/docs/querylanguage#Where)       | Returns only rows that match a condition. If omitted, all rows are returned.                                                     |
+| [group by](https://developers.google.com/chart/interactive/docs/querylanguage#Group_By) | Aggregates values across rows.                                                                                                   |
+| [pivot](https://developers.google.com/chart/interactive/docs/querylanguage#Pivot)       | Transforms distinct values in columns into new columns.                                                                          |
+| [order by](https://developers.google.com/chart/interactive/docs/querylanguage#Order_By) | Sorts rows by values in columns.                                                                                                 |
+| [limit](https://developers.google.com/chart/interactive/docs/querylanguage#Limit)       | Limits the number of returned rows.                                                                                              |
+| [offset](https://developers.google.com/chart/interactive/docs/querylanguage#Offset)     | Skips a given number of first rows.                                                                                              |
+| [label](https://developers.google.com/chart/interactive/docs/querylanguage#Label)       | Sets column labels.                                                                                                              |
+| [format](https://developers.google.com/chart/interactive/docs/querylanguage#Format)     | Formats the values in certain columns using given formatting patterns.                                                           |
+| [options](https://developers.google.com/chart/interactive/docs/querylanguage#Options)   | Sets additional options.                                                                                                         |
 Each clause takes different arguments and has vastly different effects; there is no singular construction applicable to each.
 ## Select
 

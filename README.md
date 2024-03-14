@@ -4,7 +4,7 @@ dg-publish:
 # Welcome to the Astral Café.
 This repository is the basis for [community documentation](https://docs.astral.cafe/) for Google Sheets. If you wish to contribute, feel free to make a pull request or [contact me over Discord](https://discord.com/users/365169403316142090).
 
-The site is published using the [Obsidian Digital Garden](https://github.com/oleeskild/Obsidian-Digital-Garden) plugin for [Obsidian](https://obsidian.md/). You can find the documentation for the Digital Garden plugin [here](https://dg-docs.ole.dev/).
+The site is published using the [Obsidian Digital Garden](https://github.com/oleeskild/Obsidian-Digital-Garden) plugin for [Obsidian](https://obsidian.md/). You can find the documentation for the Digital Garden plugin [here](https://dg-docs.ole.dev/). You will not need to use the plugin, but Obsidian or another markdown editor may be useful. You can find instructions about how to get started in [Contributing.md](/FAQ/Contributing.md).
 # Note Guidelines
 In order to work with the Digital Garden plugin, there are a few conventions each note should follow. All notes should be markdown files (`.md`).
 ## Header
