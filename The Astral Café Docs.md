@@ -9,3 +9,6 @@ If you wish to contribute to this site, you can find the Github [here](https://g
 
 > [!WARNING] Locale Consistency
 > All formulae within are written for a North American locale. If you reside outside of North America, you may have to replace the `,` argument separator with `;` and the `,` horizontal [[Arrays#Array Literals|array literal]] delimiter with `\`.
+
+> [!WARNING] This is for Google Sheets only.
+> While some information here may be useful for Excel, a large portion does not transfer. If you are using Excel, consider using another resource.
